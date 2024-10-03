@@ -1,6 +1,8 @@
 # doc-avatar
 Tiny web component that shows a unique'ish SVG based doc icon depending on a name. Think identicon/gravatar for doc icons.
 
+[DEMO](https://raw.githack.com/pachacamac/doc-avatar/main/index.html)
+
 ## Some motivation details
 I needed/wanted an easy way of displaying different icons for different documents for a project. Got carried away a bit and had a bit of fun with procedural generation.
 
