@@ -1,5 +1,5 @@
 # doc-avatar
-Tiny web component that shows a unique'ish SVG based doc icon depending on a name. Think identicon/gravatar for doc icons.
+Tiny web component that shows a unique'ish SVG based document icon depending on a name. Think identicon/gravatar for doc icons.
 
 ![preview](preview.png)
 
